@@ -2,7 +2,7 @@ import { Component } from '@angular/core'
 
 @Component({
   selector: 'RecipeBook',
-  templateUrl:'./recipebook.component.html',
+  templateUrl:'./recipe.component.html',
   styles:[`
     h1 {
       color:red;
